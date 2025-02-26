@@ -1,4 +1,4 @@
-<h1>I'm Treyvon, an <a href="https://www.linkedin.com/in/treyvon-burt-7710a3258)">IT Professional</a></h1>
+<h1>I'm Treyvon, an <a href="https://www.linkedin.com/in/treyvon-burt-7710a3258?trk)">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
